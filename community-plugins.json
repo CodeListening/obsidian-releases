@@ -12976,5 +12976,12 @@
         "author": "Shusako",
         "description": "Obfuscate text with an arcane runic effect.",
         "repo": "Shusako/arcane-obfuscate"
+    },
+    {
+        "id": "bookxnote-sync",
+        "name": "BookXNote Sync",
+        "author": "CodeListening",
+        "description": "同步bookxnote中的读书笔记",
+        "repo": "CodeListening/obsidian-bookxnote"
     }
 ]
